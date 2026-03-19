@@ -114,13 +114,19 @@ Sensitivity study for next-generation spectroscopic surveys to detect tidal debr
 | `mw_satellites_debris.png` | MW summary (f=0.01, z<23) |
 | `m31_satellites_debris.png` | M31 summary (f=0.01, z<23) |
 | `sim_debris_fraction.png` | 2x3: f_{5-20} vs properties, color by f_bound |
-| `sim_debris_fraction_MV.png` | f_{5-20} vs M_V standalone |
 | `sim_debris_fraction_ticks.png` | 2x3 with MW/M31 tick marks |
 | `sim_f520_cumulative.png` | Cumulative f_{5-20} distribution |
 | `sim_infall_mass_hist.png` | Infall mass histogram |
 | `mstar_rhalf_check.png` | M_star vs r_half validation |
 | `satellite_plots/mw/*.png` | 65 individual MW satellite plots |
 | `satellite_plots/m31/*.png` | 40 individual M31 satellite plots |
+
+### Report
+| File | Description |
+|------|-------------|
+| `report.tex` | LaTeX report in APJ format summarizing all results |
+| `report.pdf` | Compiled PDF (7 pages) |
+| `references.bib` | BibTeX references |
 
 ## Dependencies
 ```
